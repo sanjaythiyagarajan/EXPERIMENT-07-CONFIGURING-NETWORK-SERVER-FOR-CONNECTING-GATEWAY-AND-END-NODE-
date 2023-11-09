@@ -1,4 +1,4 @@
- ### EXPERIMENT -07 CONFIGURING NETWORK SERVER FOR CONNECTING GATEWAY AND END NODE 
+### EXPERIMENT -07 CONFIGURING NETWORK SERVER FOR CONNECTING GATEWAY AND END NODE 
  
 ## Aim: To  configure  the Network server and end device for traferring data on the network
 ## Components required: end node stm 32 development kit , dragino LPS8, network server 
@@ -22,14 +22,17 @@ Permissioned access and log-ins for network users Gateway access to the Internet
  2. Click on the nework server as shown blow 
  ![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/1bd434ca-1426-4102-8384-94473483543e)
  3. click on the add gateway 
- ![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/47c2e08d-6598-4437-8b07-f213d6f3b8ac)
-![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/e62ff028-99bc-485e-9808-fbb6e124f8b2)
-![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/a2e3ae58-6402-49e8-8f96-679059c1842c)
+![IOT EXP 07](https://github.com/DINESH18032004/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/119477784/b1e77109-9644-467d-94fc-eac00abddce0)
+
+![IOT EXP 07](https://github.com/DINESH18032004/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/119477784/b1e77109-9644-467d-94fc-eac00abddce0)
+![image](https://github.com/DINESH18032004/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/119477784/d850c9af-a531-4468-8ca1-1b83c7d7a3ac)
 4. click on the lora options , lora - frequency plan 
 5. click on channel s and create a new channel after which you can add a new end device 
-![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/1fb72be5-e48d-4cde-a329-0cfb0d29070f)
-6. add the attributesin the end device as  shown below 
- ![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/00bff30b-42fc-42d5-9540-285d270e41cb)
+![image](https://github.com/DINESH18032004/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/119477784/98944262-0fad-4863-874a-a5661dc3b975)
+
+6. add the attributesin the end device as  shown below
+ ![iot 04](https://github.com/DINESH18032004/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/119477784/9c300453-d6b8-4b57-afec-18022ec3f2d8)
+
 7.using AT commands configure end device in serial port utility
 AT Commands to set initially (Mandatory)
  AT+FDR // To do factory data reset
@@ -46,13 +49,11 @@ To set APP Key
 
 
 
-## OUTPUT 
-![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/858435f2-2f59-435d-ad3f-7ecd377bd0da)
+## OUTPUT :
 
-
+![Screenshot 2023-10-28 155729](https://github.com/DINESH18032004/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/119477784/df4b98cc-5223-4d2d-ba02-44363c3b6218)
 
 
 ## Results: 
 
   The Network server and end device for traferring data on the network has been accomplished.
-
